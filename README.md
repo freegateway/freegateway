@@ -47,4 +47,4 @@ FreeGatewayは、企業や組織のデジタル主権を確保するため、
 
 ---
 
-*© FreeGateway. All rights reserved.*
+*© FreeGateway Limited. All rights reserved.*
