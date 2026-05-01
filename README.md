@@ -1,7 +1,5 @@
 # FreeGateway
 
-![FreeGateway logo](https://www.freegateway.org/images/freegateway_logo.svg)
-
 ---
 
 ## English
